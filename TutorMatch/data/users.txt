@@ -1,0 +1,3 @@
+STUDENT,April joy B. Desamparado,apriljoydesamparado@gmail.com,09918884710,Createpass@143
+TUTOR,Joy Barrit,apriljoydesamparado17@gmail.com,09918884710,Joydesamparado12345,250.0,Saturday
+STUDENT,walterabarco,walterabarco@gmail.com,09289446242,ilovecec
